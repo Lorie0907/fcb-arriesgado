@@ -1,0 +1,77 @@
+*{
+	font-family: "Courier New",monospace;
+
+
+	margin: 0;
+	padding:0 ;
+	box-sizing:border-box ;
+
+}
+nav	{
+
+	padding: 16px;
+	margin-bottom: 4px;
+	background-color: rgb(138, 154, 91);
+}
+
+.nav-link {
+	margin-left: 1px;
+	margin-right: 1px;
+	color: black;
+}
+div {
+	text-align: center;
+}
+#profile{
+width: 300px;
+height: 300px;
+margin-top: 30px;
+margin-bottom: 10px;
+
+}
+#name {
+	margin-top:10px ;
+	margin-bottom: 10px;
+}
+#title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#intro {
+	width: 200px;
+	margin: auto;
+}
+#tools {
+	text-align: center;
+	margin-top:50px ;
+	margin-bottom: 50px;
+}
+#tools-title {
+	margin-bottom: 20px;
+}
+.tools-img {
+	height: 100px;
+	width: 100px;
+	margin-left:10px ;
+	margin-right:10px ;
+}
+#projects {
+	text-align: center;
+
+.card {
+	background-color: rgb(138, 154, 91);
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.card-img {
+	height: 300px;
+	width: 300px;
+}
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top: 4px;
+	background-color:rgb(138, 154, 91) ;
+}
